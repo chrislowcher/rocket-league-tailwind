@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Production build files
+dist/
+build/
+
+# Testing
+/tests/e2e/screenshots
+/tests/e2e/videos
+
+# IDE and OS files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+._*
+.DS_Store
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+
+# Environment variables file
+.env
+.env.*
+!.env.example
+
+# Optional: Coverage directory, if using a coverage tool
+coverage/

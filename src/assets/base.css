@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --menu-hover-color: #C1E3EE;
+    --menu-hover-text-color: #0a3549;
+    --item-shop-text-color: #FFE184;
+    --item-shop-hover-text-color: #A33800;
+}
